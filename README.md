@@ -77,5 +77,4 @@ https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhtt
 [pdf-lecture6]: https://mmoelle1.github.io/OospCpp/_static/lecture6.slides.pdf
 [pdf-lecture7]: https://mmoelle1.github.io/OospCpp/_static/lecture7.slides.pdf
  -->
-
-
+&copy; Copyright 2024, Matthias Möller.
